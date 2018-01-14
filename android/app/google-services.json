@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "975927483582",
+    "firebase_url": "https://senordeltres.firebaseio.com",
+    "project_id": "senordeltres",
+    "storage_bucket": "senordeltres.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975927483582:android:3549df90d3199854",
+        "android_client_info": {
+          "package_name": "com.senordeltres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975927483582-lj3vq3mpom69h2apsdt4hhjsab43li6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRlIAc2dV8-F0NKaVHNXyLzMN2UApmSS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
