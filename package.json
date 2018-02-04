@@ -24,6 +24,7 @@
     "git-hook": "npm run lint -s && npm run test -s"
   },
   "dependencies": {
+    "@types/react-native": "^0.52.8",
     "apisauce": "^0.14.2",
     "format-json": "^1.0.3",
     "identity-obj-proxy": "^3.0.0",
@@ -51,6 +52,7 @@
     "@storybook/addons": "^3.2.16",
     "@storybook/channels": "^3.2.16",
     "@storybook/react-native": "^3.2.16",
+    "@types/node": "^9.4.0",
     "babel-core": "6.26.0",
     "babel-eslint": "7.1.1",
     "babel-jest": "22.0.4",
@@ -75,7 +77,8 @@
     "reactotron-redux": "^1.13.0",
     "reactotron-redux-saga": "^1.13.0",
     "snazzy": "^7.0.0",
-    "standard": "10.0.2"
+    "standard": "10.0.2",
+    "typescript": "^2.7.1"
   },
   "jest": {
     "testMatch": [

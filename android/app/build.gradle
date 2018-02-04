@@ -137,6 +137,7 @@ android {
 }
 
 dependencies {
+    compile project(':react-native-config')
 
 
     compile(project(':react-native-firebase')) {
@@ -148,6 +149,7 @@ compile "com.google.android.gms:play-services-base:11.6.0"
 compile "com.google.firebase:firebase-core:11.6.0"
 compile "com.google.firebase:firebase-database:11.6.0"
 
+  compile "com.google.firebase:firebase-database:11.6.0"
 
     compile project(':react-native-i18n')
     compile project(':react-native-vector-icons')
