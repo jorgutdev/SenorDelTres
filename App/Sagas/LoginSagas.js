@@ -23,7 +23,8 @@ export function* getLogin(action) {
   // make the call to the api
   // const response = yield call(api.getlogin, data);
   console.log("WOWOW", action);
-  firebase.database()
+  
+  firebase.app().database()
     .ref("metadata")
     .on("value", snapshot => {
       console.log(snapshot.val());
