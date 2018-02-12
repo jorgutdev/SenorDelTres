@@ -60,3 +60,6 @@ package-lock.json
 package-lock.json
 ios/SenorDelTres.xcodeproj/project.pbxproj
 ios/SenorDelTres.xcodeproj/project.pbxproj
+.vscode/.react/index.map
+.vscode/.react/index.bundle
+ios/SenorDelTres.xcodeproj/project.pbxproj

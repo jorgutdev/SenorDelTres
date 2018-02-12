@@ -6,6 +6,7 @@ import LoginActions from "../Redux/LoginRedux";
 
 // Styles
 import styles from "./Styles/LaunchScreenStyles";
+import RoundedButtonStyles from "../Components//RoundedButton";
 
 class LaunchScreen extends Component {
   componentDidMount() {
@@ -34,6 +35,7 @@ class LaunchScreen extends Component {
               You're ready to ship. For everyone else, this is where you'll see
               a live preview of your fully functioning app using Ignite.
             </Text>
+            <RoundedButton />
           </View>
         </ScrollView>
       </View>
